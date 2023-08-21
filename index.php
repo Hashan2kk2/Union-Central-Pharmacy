@@ -67,7 +67,7 @@
                                     </nav>
                                 </div>
                                 <div class="header-right-btn f-right d-none d-lg-block ml-30">
-                                    <a href="#" class="btn header-btn">077 12 34 567</a>
+                                    <a class="btn header-btn">077 12 34 567</a>
                                 </div>
                             </div>
                         </div>
@@ -397,7 +397,7 @@
             </div>
         </div>
         <!-- Gallery Area End -->
-        
+
         <!--? Contact form Start -->
         <div class="contact-form-main">
             <div class="container">
@@ -416,30 +416,34 @@
                                 </div>
                             </div>
                             <!--End Section Tittle  -->
-                            <form id="contact-form" action="#" method="POST">
+                            <form id="contact-form">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6">
                                         <div class="form-box user-icon mb-30">
-                                            <input type="text" name="name" placeholder="Name">
+                                            <input style="font-size: 15px;" type="text" name="name" placeholder="Name"
+                                                id="indexName">
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6">
                                         <div class="form-box email-icon mb-30">
-                                            <input type="text" name="email" placeholder="Phone">
+                                            <input style="font-size: 15px;" type="text" name="email" placeholder="Phone"
+                                                id="indexPhone">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-box subject-icon mb-30">
-                                            <input type="Email" name="subject" placeholder="Email">
+                                            <input style="font-size: 15px;" type="Email" name="subject"
+                                                placeholder="Email" id="indexEmail">
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="form-box message-icon mb-65">
-                                            <textarea name="message" id="message" placeholder="Message"></textarea>
+                                            <textarea style="font-size: 15px;" name="message"
+                                                placeholder="Message" id="indexMsg"></textarea>
                                         </div>
-                                        <div class="submit-info">
-                                            <button class="btn" type="submit">Submit Now <i class="ti-arrow-right"></i>
-                                            </button>
+                                        <div onclick="emailSend();">
+                                            <a class="btn header-btn text-white">Submit Now<i class="ti-arrow-right"></i></a>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -635,7 +639,8 @@
                             <div class="footer-copy-right">
                                 <p>
                                     Copyright &copy;
-                                    <script>document.write(new Date().getFullYear());</script> All rights reserved Union Central Pharmacy Negombo (PVT) Ltd
+                                    <script>document.write(new Date().getFullYear());</script> All rights reserved Union
+                                    Central Pharmacy Negombo (PVT) Ltd
                                     <br>
                                     Site By Sky Labs Solutions
                                 </p>
@@ -699,6 +704,7 @@
     <!-- Jquery Plugins, main Jquery -->
     <script src="./assets/js/plugins.js"></script>
     <script src="./assets/js/main.js"></script>
+    <script src="script.js"></script>
 
 </body>
 
