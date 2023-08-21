@@ -50,7 +50,7 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2 col-md-1">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/navlogo.png" alt=""></a>
+                                <a href="index.php"><img src="assets/img/logo/navlogo.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10 col-md-10">
@@ -59,10 +59,10 @@
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav>
                                         <ul id="navigation">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="index.php">Home</a></li>
+                                            <li><a href="about.php">About</a></li>
+                                            <li><a href="blog.php">Blog</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -100,8 +100,8 @@
                                         </strong>
                                     </h1>
                                     <!-- <p data-animation="fadeInLeft" data-delay="0.1s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi uquip ex ea commodo consequat is aute irure.</p> -->
-                                    <a href="#" class="btn hero-btn" data-animation="fadeInLeft"
-                                        data-delay="0.5s">Contact Us <i class="ti-arrow-right"></i></a>
+                                    <a href="contact.php" class="btn hero-btn" data-animation="fadeInLeft"
+                                        data-delay="1s">Contact Us <i class="ti-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -122,8 +122,8 @@
                                         </strong>
                                     </h1>
                                     <!-- <p data-animation="fadeInLeft" data-delay="0.1s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi uquip ex ea commodo consequat is aute irure.</p> -->
-                                    <a href="#" class="btn hero-btn" data-animation="fadeInLeft"
-                                        data-delay="0.5s">Contact Us <i class="ti-arrow-right"></i></a>
+                                    <a href="contact.php" class="btn hero-btn" data-animation="fadeInLeft"
+                                        data-delay="1s">Contact Us <i class="ti-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -174,15 +174,6 @@
                             </div>
                             <p>There arge many variations ohf pacgssages of sorem gpsum ilable, but the majority have
                                 suffered alteration in some form, by ected humour, or randomised words whi.</p>
-                            <!-- <div class="about-btn1 mb-30">
-                            <a href="about.html" class="btn about-btn">Find Doctors .<i class="ti-arrow-right"></i></a>
-                        </div>
-                        <div class="about-btn1 mb-30">
-                            <a href="about.html" class="btn about-btn2">Appointment <i class="ti-arrow-right"></i></a>
-                        </div>
-                        <div class="about-btn1 mb-30">
-                            <a href="about.html" class="btn about-btn2">Emargency 1 <i class="ti-arrow-right"></i></a>
-                        </div> -->
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
@@ -542,8 +533,8 @@
                                     <span>Health</span>
                                     <p>Nov 30, 2020</p>
                                 </div>
-                                <h4><a href="blog_details.html">Amazing Places To Visit In Summer</a></h4>
-                                <a href="blog_details.html" class="read-more1">Read more</a>
+                                <h4><a href="blog.php">Amazing Places To Visit In Summer</a></h4>
+                                <a href="blog.php" class="read-more1">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -557,8 +548,8 @@
                                     <span>Checkup</span>
                                     <p>Nov 30, 2020</p>
                                 </div>
-                                <h4><a href="blog_details.html">Developing Creativithout Losing Visual</a></h4>
-                                <a href="blog_details.html" class="read-more1">Read more</a>
+                                <h4><a href="blog.php">Developing Creativithout Losing Visual</a></h4>
+                                <a href="blog.php" class="read-more1">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -572,8 +563,8 @@
                                     <span>Operation</span>
                                     <p>Nov 30, 2020</p>
                                 </div>
-                                <h4><a href="blog_details.html">Winter Photography Tips from Glenn</a></h4>
-                                <a href="blog_details.html" class="read-more1">Read more</a>
+                                <h4><a href="blog.php">Winter Photography Tips from Glenn</a></h4>
+                                <a href="blog.php" class="read-more1">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -592,7 +583,7 @@
                             <div class="single-footer-caption mb-50">
                                 <!-- logo -->
                                 <div class="footer-logo">
-                                    <a href="index.html"><img src="assets/img/logo/navlogo.png" alt=""></a>
+                                    <a href="index.php"><img src="assets/img/logo/navlogo.png" alt=""></a>
                                 </div>
                             </div>
                         </div>
