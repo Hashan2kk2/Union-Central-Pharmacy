@@ -1,5 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -9,21 +10,22 @@
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
 
-	<!-- CSS here -->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<link rel="stylesheet" href="assets/css/slicknav.css">
+    <!-- CSS here -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/slicknav.css">
     <link rel="stylesheet" href="assets/css/flaticon.css">
     <link rel="stylesheet" href="assets/css/gijgo.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
     <link rel="stylesheet" href="assets/css/animated-headline.css">
-	<link rel="stylesheet" href="assets/css/magnific-popup.css">
-	<link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-	<link rel="stylesheet" href="assets/css/themify-icons.css">
-	<link rel="stylesheet" href="assets/css/slick.css">
-	<link rel="stylesheet" href="assets/css/nice-select.css">
-	<link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/css/themify-icons.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
     <!-- ? Preloader Start -->
     <div id="preloader-active">
@@ -77,65 +79,66 @@
         </div>
         <!-- Header End -->
     </header>
-<main>
-    <!--? Hero Start -->
-    <div class="slider-area2">
-        <div class="slider-height2 d-flex align-items-center">
+    <main>
+        <!--? Hero Start -->
+        <div class="slider-area2">
+            <div class="slider-height2 d-flex align-items-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="hero-cap hero-cap2 text-center">
+                                <h2>About Us</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Hero End -->
+        <!--? department_area_start  -->
+        <div class="department_area section-padding2">
+            <div class="container">
+                <!-- Section Tittle -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section-tittle text-center mb-100">
+                            <!-- <span>Our Departments</span> -->
+                            <h2>Our Branches</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 my-3 my-md-0 col-12">
+                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
+                            class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Seeduwa</div>
+                    </div>
+                    <div class="col-md-4 my-3 my-md-0 col-12">
+                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
+                            class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Ja Ela</div>
+                    </div>
+                    <div class="col-md-4 my-3 my-md-0 col-12">
+                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
+                            class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Katunayake</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- depertment area end  -->
+        <!--? About Start-->
+        <div class="about-area section-padding2">
             <div class="container">
                 <div class="row">
-                <div class="col-xl-12">
-                    <div class="hero-cap hero-cap2 text-center">
-                        <h2>About Us</h2>
-                    </div>
-                </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Hero End -->
-     <!--? department_area_start  -->
-     <div class="department_area section-padding2">
-        <div class="container">
-            <!-- Section Tittle -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-tittle text-center mb-100">
-                        <!-- <span>Our Departments</span> -->
-                        <h2>Our Branches</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4 my-3 my-md-0 col-12">
-                    <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
-                        class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Seeduwa</div>
-                </div>
-                <div class="col-md-4 my-3 my-md-0 col-12">
-                    <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
-                        class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Ja Ela</div>
-                </div>
-                <div class="col-md-4 my-3 my-md-0 col-12">
-                    <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
-                        class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Katunayake</div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- depertment area end  -->
-    <!--? About Start-->
-    <div class="about-area section-padding2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-10">
-                    <div class="about-caption mb-50">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle section-tittle2 mb-35">
-                            <span>About Us</span>
-                            <h2>Welcome To Our Pharmacy</h2>
-                        </div>
-                        <p>There arge many variations ohf pacgssages of sorem gpsum ilable, but the majority have
-                            suffered alteration in some form, by ected humour, or randomised words whi.</p>
-                        <!-- <div class="about-btn1 mb-30">
+                    <div class="col-lg-6 col-md-10">
+                        <div class="about-caption mb-50">
+                            <!-- Section Tittle -->
+                            <div class="section-tittle section-tittle2 mb-35">
+                                <span>About Us</span>
+                                <h2>Welcome To Our Pharmacy</h2>
+                            </div>
+                            <p>"Discover a healthier you at Union Central Pharmacy! Your go-to destination for premium
+                                care, expert advice, and a wide range of pharmaceutical solutions. Welcome to a world of
+                                wellness!"</p>
+                            <!-- <div class="about-btn1 mb-30">
                         <a href="about.html" class="btn about-btn">Find Doctors .<i class="ti-arrow-right"></i></a>
                     </div>
                     <div class="about-btn1 mb-30">
@@ -144,350 +147,289 @@
                     <div class="about-btn1 mb-30">
                         <a href="about.html" class="btn about-btn2">Emargency 1 <i class="ti-arrow-right"></i></a>
                     </div> -->
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12">
-                    <!-- about-img -->
-                    <div class="about-img ">
-                        <div class="about-font-img d-none d-lg-block">
-                            <img src="assets/img/gallery/about2.png" alt="">
-                        </div>
-                        <div class="about-back-img ">
-                            <img src="assets/img/gallery/about1.png" alt="">
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About  End-->
-    
-    <!--? Gallery Area Start -->
-    <div class="gallery-area section-padding30">
-        <div class="container">
-            <!-- Section Tittle -->
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section-tittle text-center mb-100">
-                        <span>union central Pharmacy</span>
-                        <h2>Gallery</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <!-- Left -->
-                <div class="col-lg-6">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
+                    <div class="col-lg-6 col-md-12">
+                        <!-- about-img -->
+                        <div class="about-img ">
+                            <div class="about-font-img d-none d-lg-block">
+                                <img src="assets/img/gallery/about2.png" alt="">
                             </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Right -->
-                <div class="col-lg-6">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery5.png);"></div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery6.png);"></div>
+                            <div class="about-back-img ">
+                                <img src="assets/img/gallery/about1.png" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Gallery Area End -->
-     <!--? Contact form Start -->
-     <div class="contact-form-main">
-        <div class="container">
-            <div class="row justify-content-end">
-                <div class="col-xl-7 col-lg-7">
-                    <div class="form-wrapper">
-                        <!--Section Tittle  -->
-                        <div class="form-tittle">
-                            <div class="row ">
-                                <div class="col-xl-12">
-                                    <div class="section-tittle section-tittle2">
-                                        <!-- <span>Appointment Apply Form</span> -->
-                                        <h2>Contact</h2>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Section Tittle  -->
-                        <form id="contact-form" action="#" method="POST">
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6">
-                                    <div class="form-box user-icon mb-30">
-                                        <input type="text" name="name" placeholder="Name">
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6">
-                                    <div class="form-box email-icon mb-30">
-                                        <input type="text" name="email" placeholder="Phone">
-                                    </div>
-                                </div>
-                                
-                                <div class="col-md-12">
-                                    <div class="form-box subject-icon mb-30">
-                                        <input type="Email" name="subject" placeholder="Email">
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="form-box message-icon mb-65">
-                                        <textarea name="message" id="message" placeholder="Message"></textarea>
-                                    </div>
-                                    <div class="submit-info">
-                                        <button class="btn" type="submit">Submit Now <i class="ti-arrow-right"></i> </button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- contact left Img-->
-        <div class="from-left d-none d-lg-block">
-            <img src="assets/img/gallery/contact_form.png" alt="">
-        </div>
-    </div>
-    <!-- Contact form End -->
-    <!--? gallery Products Start -->
-    <div class="gallery-area fix">
-        <div class="container-fluid p-0">
-            <div class="row no-gutters">
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                             <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery5.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery6.png);"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- gallery Products End -->
-     <!--? Team Start -->
-     <div class="team-area section-padding30">
-        <div class="container">
-            <!-- Section Tittle -->
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section-tittle text-center mb-100">
-                        <span>Union Central Pharmacy</span>
-                        <h2>Our Team</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <!-- single Tem -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/team2.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="#">Alvin Maxwell</a></h3>
-                            <span>Designation</span>
-                            <!-- Team social -->
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fas fa-globe"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/team3.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="#">Maria Smith</a></h3>
-                            <span>Designation</span>
-                            <!-- Team social -->
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fas fa-globe"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                    <div class="single-team mb-30">
-                        <div class="team-img">
-                            <img src="assets/img/gallery/team1.png" alt="">
-                        </div>
-                        <div class="team-caption">
-                            <h3><a href="#">Angela Doe</a></h3>
-                            <span>Designation</span>
-                            <!-- Team social -->
-                            <div class="team-social">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fas fa-globe"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-    </main>
-    <footer>
-        <!--? Footer Start-->
-        <div class="footer-area section-bg" data-background="assets/img/gallery/footer_bg.jpg">
+        <!-- About  End-->
+
+        <!--? Gallery Area Start -->
+        <div class="gallery-area section-padding30">
             <div class="container">
-                <div class="footer-top footer-padding">
-                    <div class="row d-flex justify-content-between">
-                        <div class="col-xl-3 col-lg-3 col-md-4 col-sm-8">
-                            <div class="single-footer-caption mb-50">
-                                <!-- logo -->
-                                <div class="footer-logo">
-                                    <a href="index.php"><img src="assets/img/logo/navlogo.png" alt=""></a>
+                <!-- Section Tittle -->
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <div class="section-tittle text-center mb-100">
+                            <span>union central Pharmacy</span>
+                            <h2>Gallery</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <!-- Left -->
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="single-gallery mb-30">
+                                    <div class="gallery-img big-img"
+                                        style="background-image: url(assets/img/gallery/gallery1.png);"></div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 col-sm-5">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4>About Us</h4>
-                                    <div class="footer-pera">
-                                        <p class="info1">Lorem igpsum doldfor sit amet, adipiscing elit, sed do eiusmod
-                                            tempor cergelit rgh. </p>
-                                        <p class="info1">Lorem ipsum dolor sit amet, adipiscing elit.</p>
-                                    </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="single-gallery mb-30">
+                                    <div class="gallery-img small-img"
+                                        style="background-image: url(assets/img/gallery/gallery2.png);"></div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-number mb-50">
-                                    <h4>077 12 34 567</h4>
-                                    <p>unioncentralpharmacy@gmail.com</p>
-                                </div>
-                                <!-- Form -->
-                                <div class="footer-form">
-                                    <div id="mc_embed_signup">
-                                        <form target="_blank"
-                                            action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-                                            method="get" class="subscribe_form relative mail_part" novalidate="true">
-                                            <input type="email" name="EMAIL" id="newsletter-form-email"
-                                                placeholder=" Email Address " class="placeholder hide-on-focus"
-                                                onfocus="this.placeholder = ''"
-                                                onblur="this.placeholder = 'Your email address'">
-                                            <div class="form-icon">
-                                                <button type="submit" name="submit" id="newsletter-submit"
-                                                    class="email_icon newsletter-submit button-contactForm">
-                                                    Send
-                                                </button>
-                                            </div>
-                                            <div class="mt-10 info"></div>
-                                        </form>
-                                    </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="single-gallery mb-30">
+                                    <div class="gallery-img small-img"
+                                        style="background-image: url(assets/img/gallery/gallery3.png);"></div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="footer-bottom">
-                    <div class="row d-flex justify-content-between align-items-center">
-                        <div class="col-xl-9 col-lg-8">
-                            <div class="footer-copy-right">
-                                <p>
-                                    Copyright &copy;
-                                    <script>document.write(new Date().getFullYear());</script> All rights reserved Union Central Pharmacy Negombo (PVT) Ltd
-                                    <br>
-                                    Site By Sky Labs Solutions
-                                </p>
+                    <!-- Right -->
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="single-gallery mb-30">
+                                    <div class="gallery-img small-img"
+                                        style="background-image: url(assets/img/gallery/gallery4.png);"></div>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4">
-                            <!-- Footer Social -->
-                            <div class="footer-social f-right">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fas fa-globe"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="single-gallery mb-30">
+                                    <div class="gallery-img small-img"
+                                        style="background-image: url(assets/img/gallery/gallery5.png);"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="single-gallery mb-30">
+                                    <div class="gallery-img big-img"
+                                        style="background-image: url(assets/img/gallery/gallery6.png);"></div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Footer End-->
-    </footer>
+        <!-- Gallery Area End -->
+        <!--? Contact form Start -->
+        <div class="contact-form-main">
+            <div class="container">
+                <div class="row justify-content-end">
+                    <div class="col-xl-7 col-lg-7">
+                        <div class="form-wrapper">
+                            <!--Section Tittle  -->
+                            <div class="form-tittle">
+                                <div class="row ">
+                                    <div class="col-xl-12">
+                                        <div class="section-tittle section-tittle2">
+                                            <span>Union Central Pharmacy</span>
+                                            <h2>Contact Form</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Section Tittle  -->
+                            <form id="contact-form">
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-box user-icon mb-30">
+                                            <input style="font-size: 15px;" type="text" name="name" placeholder="Name"
+                                                id="indexName">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-box email-icon mb-30">
+                                            <input style="font-size: 15px;" type="text" name="email" placeholder="Phone"
+                                                id="indexPhone">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="form-box subject-icon mb-30">
+                                            <input style="font-size: 15px;" type="Email" name="subject"
+                                                placeholder="Email" id="indexEmail">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="form-box message-icon mb-65">
+                                            <textarea style="font-size: 15px;" name="message" placeholder="Message"
+                                                id="indexMsg"></textarea>
+                                        </div>
+                                        <div onclick="emailSend();">
+                                            <a class="btn header-btn text-white">Submit Now<i
+                                                    class="ti-arrow-right"></i></a>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- contact left Img-->
+            <div class="from-left d-none d-lg-block">
+                <img src="assets/img/gallery/contact_form.png" alt="">
+            </div>
+        </div>
+        <!-- Contact form End -->
+        <!--? gallery Products Start -->
+        <div class="gallery-area fix">
+            <div class="container-fluid p-0">
+                <div class="row no-gutters">
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="gallery-box">
+                            <div class="single-gallery">
+                                <div class="gallery-img "
+                                    style="background-image: url(assets/img/gallery/gallery1.png);"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="gallery-box">
+                            <div class="single-gallery">
+                                <div class="gallery-img "
+                                    style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="gallery-box">
+                            <div class="single-gallery">
+                                <div class="gallery-img "
+                                    style="background-image: url(assets/img/gallery/gallery3.png);"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="gallery-box">
+                            <div class="single-gallery">
+                                <div class="gallery-img "
+                                    style="background-image: url(assets/img/gallery/gallery4.png);"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="gallery-box">
+                            <div class="single-gallery">
+                                <div class="gallery-img "
+                                    style="background-image: url(assets/img/gallery/gallery5.png);"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="gallery-box">
+                            <div class="single-gallery">
+                                <div class="gallery-img "
+                                    style="background-image: url(assets/img/gallery/gallery6.png);"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- gallery Products End -->
+        <!--? Team Start -->
+        <div class="team-area section-padding30">
+            <div class="container">
+                <!-- Section Tittle -->
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <div class="section-tittle text-center mb-100">
+                            <span>Union Central Pharmacy</span>
+                            <h2>Our Team</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <!-- single Tem -->
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/gallery/team2.png" alt="">
+                            </div>
+                            <div class="team-caption">
+                                <h3><a href="#">Alvin Maxwell</a></h3>
+                                <span>Designation</span>
+                                <!-- Team social -->
+                                <div class="team-social">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fas fa-globe"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/gallery/team3.png" alt="">
+                            </div>
+                            <div class="team-caption">
+                                <h3><a href="#">Maria Smith</a></h3>
+                                <span>Designation</span>
+                                <!-- Team social -->
+                                <div class="team-social">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fas fa-globe"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/gallery/team1.png" alt="">
+                            </div>
+                            <div class="team-caption">
+                                <h3><a href="#">Angela Doe</a></h3>
+                                <span>Designation</span>
+                                <!-- Team social -->
+                                <div class="team-social">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fas fa-globe"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Team End -->
+    </main>
+    <?php
+
+    require 'footer.php';
+
+    ?>
     <!-- Scroll Up -->
-    <div id="back-top" >
+    <div id="back-top">
         <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
     </div>
 
     <!-- JS here -->
-
+    <script src="script.js"></script>
     <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <!-- Jquery, Popper, Bootstrap -->
     <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
@@ -509,7 +451,7 @@
     <!-- Nice-select, sticky -->
     <script src="./assets/js/jquery.nice-select.min.js"></script>
     <script src="./assets/js/jquery.sticky.js"></script>
-    
+
     <!-- counter , waypoint -->
     <script src="./assets/js/jquery.counterup.min.js"></script>
     <script src="./assets/js/waypoints.min.js"></script>
@@ -520,10 +462,11 @@
     <script src="./assets/js/jquery.validate.min.js"></script>
     <script src="./assets/js/mail-script.js"></script>
     <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
-    
-    <!-- Jquery Plugins, main Jquery -->	
+
+    <!-- Jquery Plugins, main Jquery -->
     <script src="./assets/js/plugins.js"></script>
     <script src="./assets/js/main.js"></script>
-    
-    </body>
+
+</body>
+
 </html>
