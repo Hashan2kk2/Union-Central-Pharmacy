@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Union Central Pharmacy </title>
+    <title> Union Central Pharmacy - Ja Ela </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
@@ -23,9 +23,7 @@
     <link rel="stylesheet" href="assets/css/slick.css">
     <link rel="stylesheet" href="assets/css/nice-select.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
@@ -52,7 +50,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2 text-center">
-                                <h2>Contact Us</h2>
+                                <h2>Union Central Pharmacy - Ja Ela</h2>
                             </div>
                         </div>
                     </div>
@@ -63,65 +61,23 @@
         <!-- ================ contact section start ================= -->
         <section class="contact-section">
             <div class="container">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4846.201162985924!2d79.88166601433154!3d7.10959423296128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2f1458781a771%3A0xa0cafe8f21faa97c!2scentral%20union%20pharmacy!5e0!3m2!1sen!2slk!4v1692597367804!5m2!1sen!2slk"
-                    width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4846.201162985924!2d79.88166601433154!3d7.10959423296128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2f1458781a771%3A0xa0cafe8f21faa97c!2scentral%20union%20pharmacy!5e0!3m2!1sen!2slk!4v1692597367804!5m2!1sen!2slk" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 <div class="row">
-                    <div class="col-12">
-                        <h2 class="contact-title">Get in Touch</h2>
-                    </div>
-                    <div class="col-lg-8">
-                        <form class="form-contact contact_form" action="contact_process.php" method="post"
-                            id="contactForm" novalidate="novalidate">
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control w-100" name="message" id="message" cols="30"
-                                            rows="9" onfocus="this.placeholder = ''"
-                                            onblur="this.placeholder = 'Enter Message'"
-                                            placeholder=" Enter Message"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <input class="form-control valid" name="name" id="name" type="text"
-                                            onfocus="this.placeholder = ''"
-                                            onblur="this.placeholder = 'Enter your name'" placeholder="Enter your name">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <input class="form-control valid" name="email" id="email" type="email"
-                                            onfocus="this.placeholder = ''"
-                                            onblur="this.placeholder = 'Enter email address'" placeholder="Email">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-group">
-                                        <input class="form-control" name="subject" id="subject" type="text"
-                                            onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'"
-                                            placeholder="Enter Subject">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="form-group mt-3">
-                                <button type="submit" class="button button-contactForm boxed-btn">Send</button>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="col-lg-3 offset-lg-1">
+
+                    <div class="col-12 col-md-4 offset-md-4 mt-5">
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
-                                <h3>483/A, Negombo Road</h3>
-                                <p>Ja-Ela, Sri Lanka. 11350</p>
+                                <h3>Union Central Pharmacy</h3>
+                                <p>Negombo Road, Ja-Ela</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3>077 12 34 567</h3>
+
+                                <h3>077 59 69 053</h3>
+                                <h3>011 22 87 112</h3>
                                 <p>Contact Us</p>
                             </div>
                         </div>
@@ -134,21 +90,69 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-tittle text-center mb-100">
-                            <!-- <span>Our Departments</span> -->
-                            <h2>Social Media</h2>
-                        </div>
-                        <div class="social text-center">
-                            <a href="https://www.facebook.com/profile.php?id=100093947815399" class="mx-5"><i style="font-size: 40px; color: #1773ea;" class="fa-brands fa-square-facebook"></i></a>
-                            <a href="https://www.facebook.com/profile.php?id=100093947815399" class="mx-5"><i style="font-size: 40px; color: #ca3082;" class="fa-brands fa-square-instagram"></i></a>
-                            <a href="https://www.facebook.com/profile.php?id=100093947815399" class="mx-5"><i style="font-size: 40px; color: #1c9cea;" class="fa-brands fa-square-twitter"></i></a>
+                <div class="gallery-area section-padding5">
+                    <div class="container">
+                        <div class="row">
+                            <!-- Left -->
+                            <div class="col-lg-6">
+                                <div class="row">
+                                    <!-- <div class="col-lg-12">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
+                                        </div>
+                                    </div> -->
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Right -->
+                            <div class="col-lg-6">
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-6">
+                                        <div class="single-gallery mb-30">
+                                            <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-
                 </div>
             </div>
+
         </section>
         <!-- ================ contact section end ================= -->
     </main>

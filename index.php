@@ -23,9 +23,7 @@
     <link rel="stylesheet" href="assets/css/slick.css">
     <link rel="stylesheet" href="assets/css/nice-select.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
@@ -41,46 +39,9 @@
         </div>
     </div>
     <!-- Preloader Start -->
-    <header>
-        <!--? Header Start -->
-        <div class="header-area">
-            <div class="main-header header-sticky">
-                <div class="container-fluid">
-                    <div class="row align-items-center">
-                        <!-- Logo -->
-                        <div class="col-xl-2 col-lg-2 col-md-1">
-                            <div class="logo">
-                                <a href="index.php"><img src="assets/img/logo/navlogo.png" alt=""></a>
-                            </div>
-                        </div>
-                        <div class="col-xl-10 col-lg-10 col-md-10">
-                            <div class="menu-main d-flex align-items-center justify-content-end">
-                                <!-- Main-menu -->
-                                <div class="main-menu f-right d-none d-lg-block">
-                                    <nav>
-                                        <ul id="navigation">
-                                            <li><a href="index.php">Home</a></li>
-                                            <li><a href="about.php">About</a></li>
-                                            <li><a href="blog.php">Blog</a></li>
-                                            <li><a href="contact.php">Contact</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                                <div class="header-right-btn f-right d-none d-lg-block ml-30">
-                                    <a class="btn text-white header-btn">077 12 34 567</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Mobile Menu -->
-                        <div class="col-12">
-                            <div class="mobile_menu d-block d-lg-none"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Header End -->
-    </header>
+    <?php
+    require 'header.php';
+    ?>
     <main>
         <!--? slider Area Start-->
         <div class="slider-area position-relative">
@@ -100,8 +61,7 @@
                                         </strong>
                                     </h1>
                                     <!-- <p data-animation="fadeInLeft" data-delay="0.1s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi uquip ex ea commodo consequat is aute irure.</p> -->
-                                    <a href="contact.php" class="btn hero-btn" data-animation="fadeInLeft"
-                                        data-delay="1s">Contact Us <i class="ti-arrow-right"></i></a>
+                                    <a href="contact.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="1s">Contact Us <i class="ti-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -122,8 +82,7 @@
                                         </strong>
                                     </h1>
                                     <!-- <p data-animation="fadeInLeft" data-delay="0.1s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi uquip ex ea commodo consequat is aute irure.</p> -->
-                                    <a href="contact.php" class="btn hero-btn" data-animation="fadeInLeft"
-                                        data-delay="1s">Contact Us <i class="ti-arrow-right"></i></a>
+                                    <a href="contact.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="1s">Contact Us <i class="ti-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -146,16 +105,13 @@
                 </div>
                 <div class="row">
                     <div class="col-md-4 my-3 my-md-0 col-12">
-                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
-                            class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Seeduwa</div>
+                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;" class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; <a href="Union_Central_Seeduwa.php">Seeduwa</a></div>
                     </div>
                     <div class="col-md-4 my-3 my-md-0 col-12">
-                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
-                            class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Ja Ela</div>
+                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;" class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; <a href="Union_Central_Jaela.php">Ja Ela</a></div>
                     </div>
                     <div class="col-md-4 my-3 my-md-0 col-12">
-                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;"
-                            class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; Katunayake</div>
+                        <div style=" display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 20px;" class=" btn">&nbsp; &nbsp;&nbsp;&nbsp; <a href="Union_Central_Katunayake.php">Katunayake</a></div>
                     </div>
                 </div>
             </div>
@@ -209,29 +165,25 @@
                             <!-- Tabs Buttons -->
                             <ul class="nav" id="myTab" role="tablist">
                                 <li class="nav-item">
-                                    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
-                                        aria-controls="home" aria-selected="true">
+                                    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">
                                         <i class="fa-solid fa-tablets"></i>
                                         <h4>Medicine</h4>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
-                                        aria-controls="profile" aria-selected="false">
+                                    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">
                                         <i class="fa-solid fa-flask"></i>
                                         <h4>Laboratory</h4>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
-                                        aria-controls="contact" aria-selected="false">
+                                    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">
                                         <i class="fa-solid fa-paw"></i>
                                         <h4>Pets Care</h4>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="Astrology-tab" data-toggle="tab" href="#Astrology"
-                                        role="tab" aria-controls="contact" aria-selected="false">
+                                    <a class="nav-link" id="Astrology-tab" data-toggle="tab" href="#Astrology" role="tab" aria-controls="contact" aria-selected="false">
                                         <i class="fa-solid fa-cloud-sun"></i>
                                         <h4>Cosmetics</h4>
                                     </a>
@@ -353,20 +305,17 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="single-gallery mb-30">
-                                    <div class="gallery-img big-img"
-                                        style="background-image: url(assets/img/gallery/gallery1.png);"></div>
+                                    <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="single-gallery mb-30">
-                                    <div class="gallery-img small-img"
-                                        style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                                    <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="single-gallery mb-30">
-                                    <div class="gallery-img small-img"
-                                        style="background-image: url(assets/img/gallery/gallery3.png);"></div>
+                                    <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -376,20 +325,17 @@
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="single-gallery mb-30">
-                                    <div class="gallery-img small-img"
-                                        style="background-image: url(assets/img/gallery/gallery4.png);"></div>
+                                    <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="single-gallery mb-30">
-                                    <div class="gallery-img small-img"
-                                        style="background-image: url(assets/img/gallery/gallery5.png);"></div>
+                                    <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery5.png);"></div>
                                 </div>
                             </div>
                             <div class="col-lg-12">
                                 <div class="single-gallery mb-30">
-                                    <div class="gallery-img big-img"
-                                        style="background-image: url(assets/img/gallery/gallery6.png);"></div>
+                                    <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery6.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -421,30 +367,25 @@
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6">
                                         <div class="form-box user-icon mb-30">
-                                            <input style="font-size: 15px;" type="text" name="name" placeholder="Name"
-                                                id="indexName">
+                                            <input style="font-size: 15px;" type="text" name="name" placeholder="Name" id="indexName">
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6">
                                         <div class="form-box email-icon mb-30">
-                                            <input style="font-size: 15px;" type="text" name="email" placeholder="Phone"
-                                                id="indexPhone">
+                                            <input style="font-size: 15px;" type="text" name="email" placeholder="Phone" id="indexPhone">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-box subject-icon mb-30">
-                                            <input style="font-size: 15px;" type="Email" name="subject"
-                                                placeholder="Email" id="indexEmail">
+                                            <input style="font-size: 15px;" type="Email" name="subject" placeholder="Email" id="indexEmail">
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="form-box message-icon mb-65">
-                                            <textarea style="font-size: 15px;" name="message" placeholder="Message"
-                                                id="indexMsg"></textarea>
+                                            <textarea style="font-size: 15px;" name="message" placeholder="Message" id="indexMsg"></textarea>
                                         </div>
                                         <div onclick="emailSend();">
-                                            <a class="btn header-btn text-white">Submit Now<i
-                                                    class="ti-arrow-right"></i></a>
+                                            <a class="btn header-btn text-white">Submit Now<i class="ti-arrow-right"></i></a>
 
                                         </div>
                                     </div>
@@ -467,48 +408,42 @@
                     <div class="col-lg-3 col-md-3 col-sm-6">
                         <div class="gallery-box">
                             <div class="single-gallery">
-                                <div class="gallery-img "
-                                    style="background-image: url(assets/img/gallery/gallery1.png);"></div>
+                                <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery1.png);"></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6">
                         <div class="gallery-box">
                             <div class="single-gallery">
-                                <div class="gallery-img "
-                                    style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                                <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery2.png);"></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="gallery-box">
                             <div class="single-gallery">
-                                <div class="gallery-img "
-                                    style="background-image: url(assets/img/gallery/gallery3.png);"></div>
+                                <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery3.png);"></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="gallery-box">
                             <div class="single-gallery">
-                                <div class="gallery-img "
-                                    style="background-image: url(assets/img/gallery/gallery4.png);"></div>
+                                <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery4.png);"></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6">
                         <div class="gallery-box">
                             <div class="single-gallery">
-                                <div class="gallery-img "
-                                    style="background-image: url(assets/img/gallery/gallery5.png);"></div>
+                                <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery5.png);"></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6">
                         <div class="gallery-box">
                             <div class="single-gallery">
-                                <div class="gallery-img "
-                                    style="background-image: url(assets/img/gallery/gallery6.png);"></div>
+                                <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery6.png);"></div>
                             </div>
                         </div>
                     </div>
